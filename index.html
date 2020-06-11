@@ -1,0 +1,208 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+<title>NY</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+  body{
+    background-color:bisque;
+  }
+    
+  .column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+[class*="col-"] {
+  width: 100%;
+}
+
+
+
+    
+</style>
+</head>
+<body>
+    <header id="main-header" class="p-3 mb-2 bg-danger text-white">
+        
+          <div id="qwerty" class="qwerty">
+            <button class="w3-button w3-teal w3-xlarge w3-right" onclick="openRightMenu()">&#9776;</button>
+          </div>
+        <div class="container">
+          <h1 id="header-title">NY</h1>
+          <h5>Nearby You</h5>
+          <div id='textbox' class="textbox">
+          <label for="lname"></label>
+    
+        </div> 
+        <div id="showData" class="showData">
+
+        </div> 
+    
+       </header>
+
+       
+       <div class="w3-sidebar w3-bar-block w3-card w3-animate-right" style="display:none;right:0;" id="rightMenu">
+        <button onclick="closeRightMenu()" class="w3-bar-item w3-button w3-large">Close &times;</button>
+        <a href="htmlFiles/subscription.html" class="w3-bar-item w3-button">Subscribe</a>
+        <a href="#about" class="w3-bar-item w3-button">About</a>
+        <a href="#service" class="w3-bar-item w3-button">Services we provide</a>
+        <a href="#team" class="w3-bar-item w3-button">Help</a>
+
+      </div>
+      
+
+    <div class="w3-sidebar w3-bar-block w3-light-grey w3-card" style="width:15%">
+        
+        
+        <div class="w3-dropdown-hover">
+          <button class="w3-button"><a href="htmlFiles/serviceCar.html" >   Services</a>
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="w3-dropdown-content w3-bar-block">
+            <a href="htmlFiles/serviceCarDisplay.html" class="w3-bar-item w3-button">Car Center</a>
+            <a href="htmlFiles/serviceMobileDisplay.html" class="w3-bar-item w3-button">Mobile Repair</a>
+            <a href="htmlFiles/serviceCabDisplay.html" class="w3-bar-item w3-button"> Cab Service</a>
+            <a href="htmlFiles/servicesMedicalDisplay.html" class="w3-bar-item w3-button"> Medical Store</a>
+          
+        </div>
+        </div> 
+
+        <div class="w3-dropdown-hover">
+            <button class="w3-button"><a href="htmlFiles/beautyReview.html">     Beauty & Style</a>
+              <i class="fa fa-caret-down"></i>
+            </button>
+           
+          </div> 
+          
+          <div class="w3-dropdown-hover">
+            <button class="w3-button"><a href="htmlFiles/Tutor.html">Home Services</a>
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="w3-dropdown-content w3-bar-block">
+              <a href="htmlFiles/homeElectricianDisplay.html" class="w3-bar-item w3-button">Electrician</a>
+              <a href="htmlFiles/tutorDisplay.html" class="w3-bar-item w3-button">Home Tutor</a>
+              <a href="htmlFiles/homeMaidDisplay.html" class="w3-bar-item w3-button">Maid Service</a>
+              <a href="htmlFiles/giftDisplay.html" class="w3-bar-item w3-button"> Decorating Ideas</a>
+            </div>
+          </div>  
+
+
+          <div class="w3-dropdown-hover">
+            <button class="w3-button"><a href="htmlFiles/lifeReview.html">Life</a>
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="w3-dropdown-content w3-bar-block">
+              <a href="htmlFiles/lifeReview.html" class="w3-bar-item w3-button">Money</a>
+              <a href="htmlFiles/lifeReview.html" class="w3-bar-item w3-button">Career</a>
+              <a href="htmlFiles/lifeReview.html" class="w3-bar-item w3-button">Relationships</a>
+              <a href="htmlFiles/lifeShopDisplay.html" class="w3-bar-item w3-button"> Decorating Ideas</a>
+            </div>
+          </div>  
+
+
+          <div class="w3-dropdown-hover">
+            <button class="w3-button"><a href="htmlFiles/gift.html"> Gifts & Cards</a>
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="w3-dropdown-content w3-bar-block">
+              
+              <a href="htmlFiles/giftDisplay.html" class="w3-bar-item w3-button">Gift Shops</a>
+              <a href="htmlFiles/card.html" class="w3-bar-item w3-button"> Card Shops</a>
+            </div>
+          </div>  
+         
+      </div>
+      
+      <div style="margin-left:15%">
+      
+      <div id="about"   class="about">
+      <center><h1>Meet Us</h1></center>
+      <center><h5>A world of possibility, tested for you — by us!</h5></center><br><br>
+     <center> <img src="images/bg.jpg" alt="Girl in a jacket" width="800" height="500"></center><br><br>
+      <p>Some pretty awesome accomplishments, right? That only scratches the (polished) surface of what we do. These days, it's our mission to keep delivering that same tried-and-trusted advice for everything you care about (and purchase) in your home and life. Our editorial team is dedicated to making Good Housekeeping the most trusted authority in the world for delicious triple-tested recipes, genius innovations, style-savvy solutions, compelling real-life stories, and best-in-class products — all backed by the science of the GH Labs.</p><br><br><br>
+      <br>
+      <center><h1>Why Trust Us?</h1></center>
+      <h2>Accuracy</h2>
+      <p>To make sure we get it right, Good Housekeeping works closely with qualified experts and follows thorough editing and fact-checking protocol prior to publishing. Published content is periodically fact-checked and reviewed to ensure the information provided is accurate, fair, and up to date.
+
+        In addition to regularly consulting our go-to health, beauty, and home experts for insights and analysis, we also rely on the expertise of our in-house engineers, analysts, nutritionists, and product experts in the Good Housekeeping Institute</p><br>
+        <h2>Privacy!</h2>
+        <p>We take our trusted relationship with our readers seriously, and therefore maintain a strict privacy policy.</p><br><BR>
+        <div id="service" class="service">
+            <center><h1>Services we provide!</h1></center>
+                <!--<ul>
+                    <li>Home Ideas</li>
+                    <img src="/NY/images/house-clean-servies.jpg" width="400" height="250"
+                    <li>Life</li>
+                    <li>Services</li>
+                    <li>Beauty & Styles</li>
+                </ul><br><br>-->
+                <p><h3><a href="htmlFiles/homeMaid.html">1.Home Services</a></h3></p>
+                <img src="images/house-clean-servies.jpg" width="400" height="250"><br>
+
+                <p><h3><a href="htmlFiles/lifeReview.html">2.Life</a></h3></p>
+                <img src="images/life.jpg" width="400" height="250"><br><br>
+
+                <p><h3><a href="htmlFiles/servicesMedical.html">3.Services</a></h3></p>
+                <img src="images/service.jpg" width="400" height="250"><br><br>
+
+                <p><h3><a href="htmlFiles/beautyReview.html">4.Beauty & Styles</a></h3></p>
+                <img src="images/beauty.jpg" width="400" height="250"><br><br>
+
+                <p><h3><a href="htmlFiles/gift.html">5.Happy Days</a></h3></p>
+                <img src="images/happydays.jpg" width="400" height="250"></div><br><br>
+     <div id="team" class="team"> <center><h1>MEET THE EDITORIAL TEAM</h1></center><br></div>
+      <div class="row">
+        <div class="column">
+          <center>  <img src="images/riya.jpg" alt="girl in a jacket" width="120" height="120">
+          <h4>RIYA MATHUR</h4>
+      <p><h6>Editor in Chief & Editorial Director</h6></p>
+      Contact No.:12345678
+    </center>
+        </div>
+        
+          <div class="column">
+            <center> <img src="images/sunali.jpg" alt="girl in a jacket" width="120" height="120">
+            <h4>SUNALI JAMWAL</h4>
+        <p><h6>Creative Director</h6></p>
+      Contact No.:12345678
+      </center>
+          </div>
+     
+
+      </div></center>
+      
+  
+     
+<script>
+
+
+
+
+function openRightMenu() {
+  document.getElementById("rightMenu").style.display = "block";
+}
+
+function closeRightMenu() {
+  document.getElementById("rightMenu").style.display = "none";
+}
+
+
+</script>
+<script src="jsFiles/main.js"></script>     
+</body>
+</html>

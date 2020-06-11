@@ -1,0 +1,110 @@
+[
+    {
+       
+        "MaidName": "Archana Bhoskar",
+        "MobileNo": 7008965489,
+        "Experience":"14 years",
+        "Location": "123 Janpat Road, opposite Rani park, Sardarpura"
+        
+    },
+
+    {
+        
+        "MaidName": "Pooja Airani",
+        "MobileNo": 12345780,
+        "Experience":"1 years",
+        "Location": "123 Janpat Road,opposite Rani park, Sardarpura"
+
+    },
+
+
+    {
+
+        "MaidName": "Chetana Pabrekar",
+        "MobileNo": 9878654382,
+        "Experience":"26 years",
+        "Location": "456 Bankot Nagar"
+
+    },
+
+    {
+       
+        "MaidName": "Simran Kour",
+        "MobileNo": 1234243456,
+        "Experience":"35 years",
+        "Location": "242 sundar road,Paota"
+
+    },
+
+    {
+        
+        "MaidName": "Gayatri Atlapura",
+        "MobileNo": 9873178690,
+        "Experience":"2 years",
+        "Location": "434 Aakhaliya Road, Pratap Nagar"
+
+    },
+
+    {
+        
+        "MaidName": "Ankita Monde",
+        "MobileNo": 95731234560,
+        "Experience":"2 years",
+        "Location": "131 Mahaveer Road, Naya bas"
+
+    },
+
+    {
+        
+        "MaidName": "Ranjan Kolambkar",
+        "MobileNo": 123456098,
+        "Experience":"8 years",
+        "Location": "123 Janpat Road,opposite Rani park, Sardarpura"
+
+    },
+
+    {
+        
+        "MaidName": "Karuna Kamble",
+        "MobileNo": 456798755,
+        "Experience":"10 years",
+        "Location": "2342 Ganpat Mahola ,near naya mandir, Mandore"
+
+    },
+
+    {
+        
+        "MaidName": "Rohinees",
+        "MobileNo": 1234878956,
+        "Experience":"15 years",
+        "Location": "456 c road ,Sardarpura"
+
+    },
+
+    {
+       
+        "MaidName": "Sandhya Ambolkar",
+        "MobileNo": 142422348,
+        "Experience":"3 years",
+        "Location": "123 Janpat Road,opposite Rani park, Sardarpura"
+
+    },
+
+
+    {
+        "MaidName":"Aarti devi",
+        "MobileNo": 12345324246,
+        "Experience":"11 years",
+        "Location": "456 AIIMS Road, Kudi"
+
+    },
+
+    {
+       
+        "MaidName": "Shama Devi ",
+        "MobileNo": 1234566878,
+        "Experience":"5 years",
+        "Location": "567 B Road, Sardarpura"
+
+    }
+]

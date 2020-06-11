@@ -1,0 +1,150 @@
+[
+    {
+        
+        "ShopName": "thakur mobile hut ",
+        "MobileNo": 123456,
+        "email": "thakur@gmail.com",
+        "ratings": 5,
+        "Location": "Dalhousie road,pathankot"
+
+    },
+
+    {
+       
+        "ShopName": "Ajay mobile shop",
+        "MobileNo": 123456,
+        "email": "ajay@gmail.com",
+        "ratings": 5,
+        "Location": "118 shiv nagar,opposite Rani park, jammu"
+
+    },
+
+
+    {
+        
+        "ShopName": "sharma mobile repairing centre",
+        "MobileNo": 9876198456,
+        "email": "eqeqwerty@gmail.com",
+        "ratings": 3,
+        "Location": "256 bakshi Nagar,jammu"
+
+    },
+
+    {
+       
+        "ShopName": "mittal electronics",
+        "MobileNo": 9596865310,
+        "email": "mittal@gmail.com",
+        "ratings": 4,
+        "Location": "214 main road,Dalhousie"
+
+    },
+
+    {
+        
+        "ShopName": "brijmohan telecom",
+        "MobileNo": 9878973456,
+        "email": "qwerty@gmail.com",
+        "ratings": 5,
+        "Location": "408 hill mini road, pathankot"
+
+    },
+
+    {
+        
+        "ShopName": "S.S communication",
+        "MobileNo": 9576783456,
+        "email": "subhash@gmail.com",
+        "ratings": 2,
+        "Location": "131 Mahaveer Road, Naya bas"
+
+    },
+
+    {
+        
+        "ShopName": "mobile service point",
+        "MobileNo": 9908764321,
+        "email": "ram@gmail.com",
+        "ratings": 5,
+        "Location": "dhaki road, pathankot"
+    },
+
+    {
+        
+        "ShopName": "bhagwati communication",
+        "MobileNo": 6009987321,
+        "email": "abc@gmail.com",
+        "ratings": 5,
+        "Location": "near model tower, jammu"
+    },
+
+    {
+        
+        "ShopName": "Gupta electrostat centre",
+        "MobileNo": 1234878956,
+        "email": "gupta@gmail.com",
+        "ratings": 5,
+        "Location": "raghunath bazaar, near shopping palace, jammu"
+
+    },
+
+    {
+        
+        "ShopName": "jio store",
+        "MobileNo": 1424223456,
+        "email": "vaid@gmail.com",
+        "ratings": 5,
+        "Location": "near mile sone restaurant,jammu"
+    },
+
+
+    {
+        
+        "ShopName": "shree sai telecom",
+        "MobileNo": 9908743211,
+        "email": "Shastri@gmail.com",
+        "ratings": 3,
+        "Location": "hari market, jammu"
+
+    },
+
+    {
+        "ShopName": "oshan world",
+        "MobileNo": 6009854321,
+        "email": "oshan@gmail.com",
+        "ratings": 5,
+        "Location": "M.C road pathankot"
+
+    },
+
+
+    {
+        
+        "ShopName": "vikas telecom",
+        "MobileNo": 1234657890,
+        "email": "vikas@gmail.com",
+        "ratings": 5,
+        "Location": "gole market, jammu"
+
+    },
+
+
+    {
+        
+        "ShopName": "mahajan telecom",
+        "MobileNo": 312345690,
+        "email": "mahajan@gmail.com",
+        "ratings": 4,
+        "Location": "near jakfed shopping cetre, jammu"
+
+    },
+
+    {
+        
+        "ShopName": "mobile hut",
+        "MobileNo": 2437655310,
+        "email": "saran@gmail.com",
+        "ratings": 2,
+        "Location": "gandhi nagar,jammu"
+    }
+]

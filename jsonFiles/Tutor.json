@@ -1,0 +1,120 @@
+[
+    {
+       
+        "TutorName": "Md akif",
+        "MobileNo": 7008965489,
+        "Experience":"4 years",
+        "fees"      :8000,
+        "Location": "123 Janpat Road, opposite Rani park, Sardarpura"
+        
+    },
+
+    {
+        
+        "TutorName": "Taruna sharma",
+        "MobileNo": 12345780,
+        "Experience":"26 years",
+        "fees"      :15000,
+        "Location": "123 Janpat Road,opposite Rani park, Sardarpura"
+
+    },
+
+
+    {
+
+        "TutorName": "Prachi Garg",
+        "MobileNo": 9878654382,
+        "Experience":"1 years",
+        "fees"      :3000,
+        "Location": "456 Bankot Nagar"
+
+    },
+
+    {
+       
+        "TutorName": "Abhijeet Panwar",
+        "MobileNo": 1234243456,
+        "Experience":"3 years",
+        "fees"      :6000,
+        "Location": "242 sundar road,Paota"
+
+    },
+
+    {
+        
+        "TutorName": "Harry",
+        "MobileNo": 9873178690,
+        "Experience":"2 years",
+        "fees"      :4000,
+        "Location": "434 Aakhaliya Road, Pratap Nagar"
+
+    },
+
+    {
+        
+        "TutorName": "Sanjeev kumar",
+        "MobileNo": 95731234560,
+        "Experience":"3o years",
+        "fees"      :20000,
+        "Location": "131 Mahaveer Road, Naya bas"
+
+    },
+
+    {
+        
+        "TutorName": "Iqra Zargar",
+        "MobileNo": 123456098,
+        "Experience":"8 years",
+        "fees"      :10000,
+        "Location": "123 Janpat Road,opposite Rani park, Sardarpura"
+
+    },
+
+    {
+        
+        "TutorName": "Tiya Singhal",
+        "MobileNo": 456798755,
+        "Experience":"13 years",
+        "fees"      :17000,
+        "Location": "2342 Ganpat Mahola ,near naya mandir, Mandore"
+
+    },
+
+    {
+        
+        "TutorName": "Rahul Sharma",
+        "MobileNo": 1234878956,
+        "Experience":"15 years",
+        "fees"      :13000,
+        "Location": "456 c road ,Sardarpura"
+
+    },
+
+    {
+       
+        "TutorName": "Ramyash singhsl",
+        "MobileNo": 142422348,
+        "Experience":"17 years",
+        "fees"      :20000,
+        "Location": "123 Janpat Road,opposite Rani park, Sardarpura"
+
+    },
+
+
+    {
+        "TutorName":"Devki",
+        "MobileNo": 12345324246,
+        "Experience":"11 years",
+        "fees"      :15000,
+        "Location": "456 AIIMS Road, Kudi"
+
+    },
+
+    {
+       
+        "TutorName": "Santosh bhati ",
+        "MobileNo": 1234566878,
+        "Experience":"20 years",
+        "fees"      :25000,
+        "Location": "567 B Road, Sardarpura"}
+    ]
